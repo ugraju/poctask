@@ -1,0 +1,12 @@
+com\ibm\upskill\microcervices\currencyexchangeservice\request\CurrencyExchangeRequest.class
+com\ibm\upskill\microcervices\currencyexchangeservice\util\CurrencyExchangeUtils.class
+com\ibm\upskill\microcervices\currencyexchangeservice\dao\ExchangeValueDao.class
+com\ibm\upskill\microcervices\currencyexchangeservice\api\CurrencyExchangeController.class
+com\ibm\upskill\microcervices\currencyexchangeservice\bo\impl\CurrencyExchangeValueModelImpl.class
+com\ibm\upskill\microcervices\currencyexchangeservice\CurrencyExchangeServiceApplication.class
+com\ibm\upskill\microcervices\currencyexchangeservice\response\transformer\ResponseTransformer.class
+com\ibm\upskill\microcervices\currencyexchangeservice\bo\CurrencyExchangeValueModel.class
+com\ibm\upskill\microcervices\currencyexchangeservice\response\FallBackBean.class
+com\ibm\upskill\microcervices\currencyexchangeservice\util\CurrencyExchangeConstants.class
+com\ibm\upskill\microcervices\currencyexchangeservice\repository\ExchangeValueRepository.class
+com\ibm\upskill\microcervices\currencyexchangeservice\response\CurrencyExchangeResponse.class

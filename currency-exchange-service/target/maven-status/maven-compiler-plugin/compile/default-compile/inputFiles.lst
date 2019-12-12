@@ -1,0 +1,12 @@
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\repository\ExchangeValueRepository.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\bo\impl\CurrencyExchangeValueModelImpl.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\bo\CurrencyExchangeValueModel.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\dao\ExchangeValueDao.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\api\CurrencyExchangeController.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\request\CurrencyExchangeRequest.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\response\CurrencyExchangeResponse.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\util\CurrencyExchangeConstants.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\response\transformer\ResponseTransformer.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\util\CurrencyExchangeUtils.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\CurrencyExchangeServiceApplication.java
+C:\Microservice_Workspace\currency-exchange-service\src\main\java\com\ibm\upskill\microcervices\currencyexchangeservice\response\FallBackBean.java
